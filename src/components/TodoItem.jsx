@@ -43,7 +43,7 @@ const styles = {
     borderRadius: '100%',
     border: 'none',
     cursor: 'pointer',
-    fontSize: '16px',
+    fontSize: '16 px',
   },
 }
 
